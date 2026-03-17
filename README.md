@@ -4,6 +4,7 @@
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
 
+
 **APPARATUS REQUIRED**:
 
 1.	Regulated Power supply ( RPS)	(0-30 V)	1
@@ -17,6 +18,8 @@ To verify Thevenin’s theorem practically and theoretically for the given DC ci
 5.	Bread board	---	1
 
 6.	Multimeter	---	1
+
+
 
 **THEORY:**
 
@@ -51,6 +54,22 @@ Thevenin’s equivalent circuit
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
 
+
+**CIRCUITS:**
+
+![WhatsApp Image 2026-03-17 at 19 24 56](https://github.com/user-attachments/assets/afc25787-e248-42ae-a946-2a78a0cfafd7)
+
+
+
+
+**TABULATION AND CALCULATION:**
+![WhatsApp Image 2026-03-17 at 19 25 02](https://github.com/user-attachments/assets/13187cd4-ee93-444a-8760-d0ea43610e45)
+
+
+![WhatsApp Image 2026-03-17 at 19 25 03](https://github.com/user-attachments/assets/d26326e3-53d6-4226-9410-5776b6477356)
+
+
+
 **PROCEDURE:**
 
 1.	Make the connections as per the Circuit Diagram:1
@@ -78,3 +97,11 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+
+**MARKS SPLIT UP:**
+![WhatsApp Image 2026-03-17 at 19 25 03 (1)](https://github.com/user-attachments/assets/bcfe2173-71a4-4f04-ad50-4db52bcc283c)
+
+
+**RESULT:**
+![WhatsApp Image 2026-03-17 at 21 10 54](https://github.com/user-attachments/assets/e9850902-caec-4f9c-97fb-05b09a0eb423)
